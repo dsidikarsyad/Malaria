@@ -11,8 +11,6 @@ Malaria <- read_excel("./data/raw/Malaria_Data.xlsx",
                                          "text"))
 attach(Malaria)
 
-#Checking number of observation
-
 #Recode Variabel Malaria type
 Malaria$stat <- recode(Type, NEG="NEG", .default = "POS")
 
