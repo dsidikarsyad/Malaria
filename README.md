@@ -17,6 +17,15 @@ $ cd Malaria
 ### Script for Data Anaysis
 Script analysis is located in the folder called "src"
 
+### Package Dependency
+We use R version 3.6.2, but version 3.4 above is good
+
+Install this package before starting to work with the data 
+library(readxl)
+library(ggplot2)
+library(tidyverse)
+library(ggpubr)
+
 ## Project organization
 
 ```
