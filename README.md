@@ -2,8 +2,20 @@
 
 Version 0.1.0
 
-Mass Blood Survey for Malaria
+This project is based on Mass Blood Survey for Malaria study data conducted in South West Sumba, Indonesia in 2014, and have been published.
+Please start the 
 
+## How To Use
+To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
+
+### Clone this repository
+$ git clone https://github.com/dsidikarsyad/Malaria
+
+### Go into the repository
+$ cd Malaria
+
+### Script for Data Anaysis
+Script analysis is located in the folder called "src"
 
 ## Project organization
 
