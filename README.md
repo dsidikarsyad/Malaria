@@ -21,10 +21,10 @@ Script analysis is located in the folder called "src"
 We use R version 3.6.2, but version 3.4 above is good
 
 Install this package before starting to work with the data 
-*library(readxl)
-*library(ggplot2)
-*library(tidyverse)
-*library(ggpubr)
+library(readxl)
+library(ggplot2)
+library(tidyverse)
+library(ggpubr)
 
 ## Project organization
 
@@ -44,10 +44,10 @@ Install this package before starting to work with the data
 │   └── temp           <- Intermediate data that has been transformed. (PG)
 ├── docs               <- Documentation notebook for users (HW)
 │   ├── manuscript     <- Manuscript source, e.g., LaTeX, Markdown, etc. (HW)
-│   └── reports        <- Other project reports and notebooks (e.g. Jupyter, .Rmd) (HW)
+│   └── reports        <- Other project reports and notebooks (e.g. Jupyter, .Rmd) (HW)
 ├── results
 │   ├── figures        <- Figures for the manuscript or reports (PG)
-│   └── output         <- Other output for the manuscript or reports (PG)
+│   └── output         <- Other output for the manuscript or reports (PG)
 └── src                <- Source code for this project (HW)
 
 ```

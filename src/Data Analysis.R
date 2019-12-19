@@ -6,7 +6,7 @@ library(ggpubr)
 #Loading and attaching Data
 Malaria <- read_excel("./data/raw/Malaria_Data.xlsx", 
                            col_types = c("text", "text", "text", 
-                                         "blank", "numeric", "text", "text", 
+                                         "numeric", "text", "text", 
                                          "numeric", "numeric", "numeric", 
                                          "text"))
 attach(Malaria)
